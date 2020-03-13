@@ -1,0 +1,9 @@
+[submodule "media-gateway"]
+	path = media-gateway
+	url = git@github.com:ploomm/media-gateway.git
+[submodule "media-config"]
+	path = media-config
+	url = git@github.com:ploomm/media-config.git
+[submodule "media-discovery"]
+	path = media-discovery
+	url = git@github.com:ploomm/media-discovery.git
