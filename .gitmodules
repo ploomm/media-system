@@ -7,3 +7,6 @@
 [submodule "media-discovery"]
 	path = media-discovery
 	url = git@github.com:ploomm/media-discovery.git
+[submodule "media-auth"]
+	path = media-auth
+	url = git@github.com:ploomm/media-auth.git
